@@ -1,3 +1,11 @@
 body {
-    background: blue;
+    background: white
+}
+
+#head {
+    text-align: center;
+}
+
+#up{
+    border-bottom: 2px solid wheat;
 }
