@@ -1,16 +1,15 @@
 body {
-    background-color:white;
-    color: black;
+    color: blue;
     font-family: 'Courier New', Courier, monospace;
     margin: 0%;
-}
+   background-color: white;
+   line-height: 2;
 
 #up{
     display: flex;
-    border-bottom: 0.5px solid gray;
     justify-content: space-between;
     align-items: center;
-    background-color: white;
+    border-bottom: 0.5px solid black;
 }
 
 #info{
@@ -23,12 +22,10 @@ body {
 
 #text{
     border-bottom: 0.5px solid gray;
-    background-color: white;
 }
 
 #end{
     text-align: center;
     display: block;
-    background-color: white;
     
 }
